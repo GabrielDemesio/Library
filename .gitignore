@@ -1,0 +1,7 @@
+app/build
+app/out
+app/src/models/Library.class
+app/src/models/Book.class
+app/src/models/Author.class
+app/src/models/Library$Borrowing.class
+app/src/Main.class
